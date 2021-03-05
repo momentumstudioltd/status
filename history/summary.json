@@ -22,10 +22,10 @@
     "url": "https://clients.momentum.studio",
     "icon": "https://favicons.githubusercontent.com/clients.momentum.studio",
     "slug": "client-area",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1737,
@@ -33,14 +33,16 @@
     "timeWeek": 1492,
     "timeMonth": 1731,
     "timeYear": 1737,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-05": 1
+    }
   },
   {
     "name": "Shared Hosting",
     "url": "https://cpanel.momentum.studio",
     "icon": "https://favicons.githubusercontent.com/cpanel.momentum.studio",
     "slug": "shared-hosting",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +53,8 @@
     "timeWeek": 599,
     "timeMonth": 890,
     "timeYear": 820,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-05": 0
+    }
   }
 ]
