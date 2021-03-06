@@ -4,10 +4,10 @@
     "url": "https://momentum.studio",
     "icon": "https://favicons.githubusercontent.com/momentum.studio",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 862,
@@ -15,7 +15,9 @@
     "timeWeek": 704,
     "timeMonth": 854,
     "timeYear": 862,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-06": 1
+    }
   },
   {
     "name": "Client Area",
