@@ -4,19 +4,19 @@
     "url": "https://momentum.studio",
     "icon": "https://favicons.githubusercontent.com/momentum.studio",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 862,
-    "timeDay": 664,
-    "timeWeek": 704,
-    "timeMonth": 854,
-    "timeYear": 862,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1040,
+    "timeDay": 5924,
+    "timeWeek": 2014,
+    "timeMonth": 1211,
+    "timeYear": 1040,
     "dailyMinutesDown": {
-      "2021-03-06": 1
+      "2021-03-06": 7
     }
   },
   {
